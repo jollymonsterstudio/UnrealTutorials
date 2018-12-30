@@ -9,8 +9,8 @@ This will help clean up the crappy roundhouse kick animation we had in place at 
 
 Take a look and we will see you next time.
 
-You can find more details here: http://jollymonsterstudio.com/?p=2979&preview=true
+You can find more details here: http://jollymonsterstudio.com/2018/12/29/unreal-blender-tutorial-how-to-add-root-bones-motion-or-keep-animations-in-place/
 
-You can find the associated video tutorial here: https://youtu.be/rJ1JIhfTKJk
+You can find the associated video tutorial here: https://youtu.be/YuIUrKNw52M
 
 Hope this helps, Thanks.
